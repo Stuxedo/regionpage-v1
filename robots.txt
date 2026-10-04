@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://regionpage.stuxedo.net/sitemap.xml
+Sitemap: https://regionpage-v1.stuxedo.net/sitemap.xml
