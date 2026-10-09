@@ -2,6 +2,12 @@
 
 All notable changes to regionpage-v1 are documented here.
 
+## v1.0.4
+
+### Changed
+
+- Live server status comes from Stuxedo's own status page, [status.stuxedo.net](https://status.stuxedo.net) (`Stuxedo/Status`), instead of Stux.Group's: the servers moved there on 9 October 2026 with their history and slugs, so every badge works as before. The "Live status from" link points there too
+
 ## v1.0.3
 
 ### Fixed

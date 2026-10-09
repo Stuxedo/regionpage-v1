@@ -11,7 +11,7 @@
  * region.flag       a flag-icons code (https://flagicons.lipis.dev), or null for no flag
  * region.icon       used when flag is null: the icon drawn in the flag's place
  * server.name       the server's name; its hostname is <name>.servers.<code>.<domain>
- * server.monitor    the slug on the Stux.Group status page, or null when it isn't monitored
+ * server.monitor    the slug on the Stuxedo status page, or null when it isn't monitored
  *
  * Regions are listed in the order they appear on the page.
  */
@@ -19,8 +19,8 @@ window.REGION_DATA = {
   "brand": {
     "name": "Stuxedo",
     "domain": "stuxedo.net",
-    "statusUrl": "https://status.stux.group",
-    "statusSummary": "https://raw.githubusercontent.com/StuxGroup/Status/main/data/summary.json"
+    "statusUrl": "https://status.stuxedo.net",
+    "statusSummary": "https://raw.githubusercontent.com/Stuxedo/Status/main/data/summary.json"
   },
   "regions": [
     {
