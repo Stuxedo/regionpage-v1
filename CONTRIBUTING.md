@@ -11,6 +11,10 @@ This is **not** the actively developed template. That's [Stuxedo/regionpage](htt
 
 New features, redesigns, or styling changes belong in the live `regionpage` repository instead.
 
+## Running it locally
+
+Run `./dev-server.sh` (or `dev-server.bat` on Windows) and open the printed URL. Add `--lan` to open it from a phone or another device on your network: it listens on every interface instead of `127.0.0.1` only and prints the addresses to open (usually the `192.168.x.x` one).
+
 ## Branches
 
 - Work on `test`, or on a feature branch off it. Never push to `main`
